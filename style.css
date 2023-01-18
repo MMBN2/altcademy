@@ -307,23 +307,23 @@ p {
 #product-img {
     margin-top: -200px;
     height: 600px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/hero_iphone_13pro.jpg) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/hero_iphone_13pro.jpg) center center no-repeat;
 }
 
 #hero-sub-watch {
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/watch_large.jpg) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/watch_large.jpg) center center no-repeat;
 }
 
 #hero-sub-ipad {
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/ipad_pro_large.jpg) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/ipad_pro_large.jpg) center center no-repeat;
 }
 
 #hero-sub-access {
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/accessories_large.jpg) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/accessories_large.jpg) center center no-repeat;
 }
 
 #hero-sub-macbook {
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/macbook_large.jpg) center center no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/macbook_large.jpg) center center no-repeat;
 }
 
 #exchange {
@@ -340,52 +340,52 @@ p {
 
 #nav-apple-logo {
     width: 40px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/apple-icon.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/apple-icon.png) 50% 50% no-repeat;
 }
 
 #nav-mac {
     width: 47.5px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/mac.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/mac.png) 50% 50% no-repeat;
 }
 
 #nav-ipad {
     width: 56.7px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/ipad.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/ipad.png) 50% 50% no-repeat;
 }
 
 #nav-iphone {
     width: 62.7px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/iphone.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/iphone.png) 50% 50% no-repeat;
 }
 
 #nav-watch {
     width: 59.1px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/watch.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/watch.png) 50% 50% no-repeat;
 }
 
 #nav-tv {
     width: 37px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/tv.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/tv.png) 50% 50% no-repeat;
 }
 
 #nav-music {
     width: 55px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/music.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/music.png) 50% 50% no-repeat;
 }
 
 #nav-support {
     width: 70px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/support.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/support.png) 50% 50% no-repeat;
 }
 
 #nav-search {
     width: 40px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/search.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/search.png) 50% 50% no-repeat;
 }
 
 #nav-shop {
     width: 40px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/navbar/shop.png) 50% 50% no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/shop.png) 50% 50% no-repeat;
 }
 
 #locale-flag {
@@ -394,7 +394,7 @@ p {
     width: 21px;
     margin-top: 1px;
     padding-right: 1px;
-    background: url(/Users/rhughey/Downloads/apple/apple_clone/images/usa.png) 3px 0px / 16px 16px no-repeat;
+    background: url(https://raw.githubusercontent.com/MMBN2/altcademy/main/usa.png) 3px 0px / 16px 16px no-repeat;
 }
 
 #locale {
